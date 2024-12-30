@@ -7,6 +7,11 @@ public class CherryPageTest {
 		int sal = 100;
 
 	}
+	
+	public void test() {
+		System.out.println("test feature");
+	}
 
 }
 //8aca528 (HEAD -> master) first cherry test commit
+//d7a4f0e (HEAD -> master) Second cherry test commit
