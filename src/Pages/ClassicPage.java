@@ -15,6 +15,7 @@ public class ClassicPage {
 		int sal = 12;
 		int max=100;
 
+		
 	}
 
 }
