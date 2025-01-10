@@ -11,6 +11,7 @@ public class ClassicPage {
 		System.out.println("Bye");
 		
 		String name= "Naveen";
+		System.out.println("Akash");
 
 	}
 
