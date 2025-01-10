@@ -3,10 +3,12 @@ package Pages;
 public class ClassicPage {
 
 	public static void main(String[] args) {
-		int n= 10;
-		int n1= 20;
-		int m = n+n1;
-		System.out.println(m);
+
+		int k = 100;
+		int k1 = 200;
+		int div = k1 / k;
+		System.out.println(div);
+		System.out.println("Bye");
 
 	}
 
