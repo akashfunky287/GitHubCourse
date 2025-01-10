@@ -17,5 +17,13 @@ public class ClassicPage {
 
 		
 	}
+	
+	public void master() {
+		System.out.println("Hi master test");
+		int n = 10;
+		
+	}
+	
+	
 
 }
