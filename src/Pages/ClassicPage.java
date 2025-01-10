@@ -13,6 +13,7 @@ public class ClassicPage {
 		String name= "Naveen";
 		System.out.println("Akash");
 		int sal = 12;
+		int max=100;
 
 	}
 
